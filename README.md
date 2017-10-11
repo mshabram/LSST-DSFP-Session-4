@@ -17,6 +17,7 @@ JAGS for Linux: https://sourceforge.net/projects/mcmc-jags/files/latest/download
 
 
 **Mac Installation help for PyJAGS:** 
+Updated Oct. 11 2017
 
 curl https://pkg-config.freedesktop.org/releases/pkg-config-0.28.tar.gz -o pkgconfig.tgz
 
