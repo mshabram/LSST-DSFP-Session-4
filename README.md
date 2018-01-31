@@ -6,7 +6,7 @@ The notebook uploads have inline plots that are rather large.  You may need to c
 <h1 align="center"></h1>
 <h1 align="center">Problem 1 - Building an HBM</h1>
 <h2 align="center">Hierarchical Bayesian Modeling of a Truncated Gaussian Population with PyStan and PyJAGS</h2>
-<div align="center">Simulating the distribution of "$\boldsymbol{e \cos \omega}$" for hot Jupiter exoplanets from  <i>Kepler</i>. These simulated exoplanet candiates are potentially undergoing migration and orbital circularization. </div>
+<div align="center">Simulating the distribution of <a href="http://www.codecogs.com/eqnedit.php?latex=\boldsymbol{e&space;\cos&space;\omega}" target="_blank"><img src="http://latex.codecogs.com/gif.latex? "$\boldsymbol{e \cos \omega}$" for hot Jupiter exoplanets from  <i>Kepler</i>. These simulated exoplanet candiates are potentially undergoing migration and orbital circularization. </div>
 <h4 align="center">LSSTC DSFP Session 4, September 21st, 2017</h4>
 <h5 align="center">Author: Megan I. Shabram, PhD,
 NASA Postdoctoral Program Fellow,  mshabram@gmail.com</h5>
