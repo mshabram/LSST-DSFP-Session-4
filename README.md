@@ -36,7 +36,7 @@ and a real eclipsing binary data set for use in Notebook 3:
 <blockquote>EBs_for_jags.txt</blockquote>
 </p>
 
-**Note:**  These notebooks were created using Python 2.7, on a MacBook Air with 8GB of RAM, and required me to have xcode's gcc compiler to install PyJAGS. Installation help has been added at the end of this README. It may be very hard on your laptop computer causing it to breath heavy. Check your laptop specs accordingly.
+**Note:**  These notebooks were created using Python 2.7, on a MacBook Air with 8GB of RAM, and required me to have xcode's gcc compiler to install PyJAGS. Installation help has been added at the end of this README. The MCMC simulations may be very hard on your laptop computer causing it to breath heavy. Check your laptop specs accordingly.
 
 <h1 align="center">Problem 2 - Practical HBM</h1>
 <h2 align="center">One- and Two-Component Gaussian Mixture Hierarchcial Bayesian Modeling with PyJAGS</h2>
