@@ -24,6 +24,16 @@ NASA Postdoctoral Program Fellow,  mshabram@gmail.com</h5>
 - Notebook 3: Break point model on eclipsing binary data.<br />
 </blockquote>
 
+* Learn how to use a computing infrastructre that allows you to carry out future HBM research projects.<br />
+* Gain a sense for the workflow involved in setting up an HBM, in particular, using key diagnostics and simulated data.<br />
+* Practice data wrangling with pandas data frames and numpy dictionaries.<br />
+* Understand the relationship between data quantity, quality, number of iterations, and analysis model complexity.  The term analysis model is also refered to as a generative model, a population model, or sometimes a shape function.<br />
+* Learn how to run HBM on datasets with missing values using JAGS.<br />
+<b>Later:</b>
+* Notebook 2: model mispecification and regularization, (e.g., running Nm2 simulated data through an Nm1 analysis model used in the HBM)<br />
+* Notebook 3: Break point model on eclipsing binary data.<br />
+
+
 <p>The additional software you will need to install:
 <blockquote>PyJAGS<br />
 PyStan</blockquote>
