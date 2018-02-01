@@ -14,15 +14,6 @@ NASA Postdoctoral Program Fellow,  mshabram@gmail.com</h5>
 <p>In this Hierachical Bayesian Model workbook, we will begin by using <a href="http://mc-stan.org/users/documentation/case-studies.html">Stan</a>, a <a href="https://en.wikipedia.org/wiki/Hybrid_Monte_Carlo">Hamiltonian Monte Carlo method.</a> Here, PyStan is used to obtain a sample from the full posterior distribution of a truncated Gaussian population model, where the measurement uncertainty of the population constituents are Normally distributed. The truncation renders this HBM with no analytical solution, thus requiring a Monte Carlo numerical approximation technique. After we investigate using Stan, we will then explore the same problem using <a href="https://martynplummer.wordpress.com/2016/01/11/pyjags/"> JAGS</a> a <a href="https://en.wikipedia.org/wiki/Gibbs_sampling">Gibbs sampling</a> method (that reverts to Metropolis-Hastings when necessary). The simulated data sets generated below are modeled after the projected eccentricity obtained for exoplanet systems that both transit and occult their host star (see <a href="https://arxiv.org/abs/1511.02861"> Shabram et al. 2016</a>)</p>
 
 <h3 align="left"> Goals of this series of notebooks:</h3>
-<blockquote>- Learn how to use a computing infrastructre that allows you to carry out future HBM research projects.<br />
-- Gain a sense for the workflow involved in setting up an HBM, in particular, using key diagnostics and simulated data.<br />
-- Practice data wrangling with pandas data frames and numpy dictionaries.<br />
-- Understand the relationship between data quantity, quality, number of iterations, and analysis model complexity.  The term analysis model is also refered to as a generative model, a population model, or sometimes a shape function.<br />
-- Learn how to run HBM on datasets with missing values using JAGS.<br />
-<b>Later:</b>
-- Notebook 2: model mispecification and regularization, (e.g., running Nm2 simulated data through an Nm1 analysis model used in the HBM)<br />
-- Notebook 3: Break point model on eclipsing binary data.<br />
-</blockquote>
 
 * Learn how to use a computing infrastructre that allows you to carry out future HBM research projects.<br />
 * Gain a sense for the workflow involved in setting up an HBM, in particular, using key diagnostics and simulated data.<br />
