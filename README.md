@@ -17,8 +17,8 @@ NASA Postdoctoral Program Fellow,  mshabram@gmail.com</h5>
 
 * Learn how to use a computing infrastructre that allows you to carry out future HBM research projects.<br />
 * Gain a sense for the workflow involved in setting up an HBM, in particular, using key diagnostics and simulated data.<br />
-* Practice data wrangling with pandas data frames and numpy dictionaries.<br />
-* Understand the relationship between data quantity, quality, number of iterations, and analysis model complexity.  The term analysis model is also refered to as a generative model, a population model, or sometimes a shape function.<br />
+* Practice data wrangling with Python Pandas data frames and Python Numpy dictionaries.<br />
+* Understand the relationship between data quantity, quality, number of iterations needed when performing MCMC, and analysis model complexity (the term analysis model is also refered to as a generative model, a population model, or sometimes a shape function).<br />
 * Learn how to run HBM on datasets with missing values using JAGS.<br />
 <b>Later:</b>
 * Notebook 2: model mispecification and regularization, (e.g., running Nm2 simulated data through an Nm1 analysis model used in the HBM)<br />
@@ -36,7 +36,7 @@ and a real eclipsing binary data set for use in Notebook 3:
 <blockquote>EBs_for_jags.txt</blockquote>
 </p>
 
-**Note:**  These notebooks were created using Python 2.7, on a MacBook Air with 8GB of RAM, and required me to have xcode's gcc compiler to install PyJAGS. Installation help has been added to the README of this git repo. It may be very hard on your laptop computer causing it to breath heavy. Check your laptop specs accordingly.
+**Note:**  These notebooks were created using Python 2.7, on a MacBook Air with 8GB of RAM, and required me to have xcode's gcc compiler to install PyJAGS. Installation help has been added at the end of this README. It may be very hard on your laptop computer causing it to breath heavy. Check your laptop specs accordingly.
 
 <h1 align="center">Problem 2 - Practical HBM</h1>
 <h2 align="center">One- and Two-Component Gaussian Mixture Hierarchcial Bayesian Modeling with PyJAGS</h2>
